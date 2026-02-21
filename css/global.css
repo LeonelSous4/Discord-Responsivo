@@ -30,11 +30,15 @@
     --cor-texto-escuro: #23272A;
 }
 
+.page {
+    width: 100%;
+}
+
 
 img {
     max-width: 100%;
     height: auto;
-    display: block; /* Remove espaços vazios indesejados abaixo da imagem */
+    display: block; 
 }
 
 .titulo {
@@ -64,11 +68,7 @@ img {
 
 .texto-main {
     font: var(--fonte-textoM);
-    color: var(--cor-de-fundo-terciaria);
+    color: var(-cor-texto-escuro);
     text-align: center;
 }
 
-.page {
-    margin: auto;
-    width: 100%;
-}

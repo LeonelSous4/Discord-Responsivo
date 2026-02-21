@@ -24,15 +24,13 @@ main {
             width: 100%;
         }
     }
-
 }
+
+
+
 
 @media screen and (min-width: 600px) {
     main {
-
-   
-
-
 
         section {
             flex-direction: row;
@@ -55,10 +53,6 @@ main {
             h2,p {
                 text-align: left;
             }
-
-            
-         
-
            
         }
 
@@ -66,10 +60,7 @@ main {
         display: flex;
         flex-direction: row-reverse;
 
-        
         }
-       
-        
 
        > :nth-child(4) {
             display: flex;
@@ -98,6 +89,8 @@ main {
         }
     }
 }
+
+
 
 
 @media screen and (min-width: 1000px) {
