@@ -30,6 +30,13 @@
     --cor-texto-escuro: #23272A;
 }
 
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Remove espaços vazios indesejados abaixo da imagem */
+}
+
 .titulo {
     font: var(--fonte-tituloM);
     color: var(--cor-texto-claro);
