@@ -2,8 +2,7 @@
 
 
 
-# 🎮
- Discord UI - Interface Responsiva
+# 🎮 Discord UI - Interface Responsiva
 
 Este é um projeto de recriação da interface do **Discord**, focado em estruturação semântica e adaptabilidade. O desafio foi replicar um layout complexo de múltiplas colunas utilizando apenas **HTML** e **CSS**, garantindo que a experiência seja fluida tanto no desktop quanto no mobile.
 
